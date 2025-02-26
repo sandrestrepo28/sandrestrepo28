@@ -18,19 +18,33 @@
 
 <p align="center">
 
-- **Back-End**:    
+<details>
+    <summary><b>📁 Back-end</b></summary>
+    <br>
 
 ![Java](https://img.shields.io/badge/Java-%23DC0D15?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.JS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
 
-- **Front-End**:
+</details>
+
+<br>
+
+<details>
+    <summary><b>📁 Front-End</b></summary>
+    <br>
 
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
 ![CSS](https://img.shields.io/badge/CSS3-%23663399?style=for-the-badge&logo=css&logoColor=white&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
 
-- **Framework**:
+</details>
+
+<br>
+
+<details>
+    <summary><b>📁 Framework</b></summary>
+    <br>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)
 ![Bulma](https://img.shields.io/badge/Bulma-%2300D1B2?style=for-the-badge&logo=bulma&logoColor=white&labelColor=black)
@@ -39,3 +53,5 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=black)
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black)
 ![Fastapi](https://img.shields.io/badge/Fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black)
+
+</details>
