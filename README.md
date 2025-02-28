@@ -10,8 +10,6 @@
 
 - 🔍 Quality Control (QC) | Ensuring high-quality and reliable software.
 
-- 📊 Business Analyst (BA) | Bridging tech and business needs for optimal results.
-
 - 📑 Documentation Specialist | Creating clear and concise technical guides.
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width ="25"><b> Technologies that I know </b>
