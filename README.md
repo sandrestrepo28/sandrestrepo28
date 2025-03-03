@@ -3,20 +3,17 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&pause=1000&color=017ACB&vCenter=true&width=435&lines=-+Software+analyst+and+developer+-)](https://git.io/typing-svg)
+
 </div>
 
-## 🧑🏻‍💻 <b>About me</b> 
+<img  align="right" width="200px" alt="pc" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg5bzVlYTJ6OGZ3N21kMWF6dmoxdjZjdzVqOWI5czgwcGVnMXZpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg5bzVlYTJ6OGZ3N21kMWF6dmoxdjZjdzVqOWI5czgwcGVnMXZpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" align="right" width="200px" alt="pc">
+**🧑🏻‍💻About me**
+- 🌐 FullStack Developer | Building frontend and backend systems.
 
+- 🔍 Quality Control (QC) | Ensuring high-quality and reliable software.
 
-<div style="text-align: left;">
-<ul>
-<li>🌐 FullStack Developer | Building frontend and backend systems.</li>
-<li>🔍 Quality Control (QC) | Ensuring high-quality and reliable software.</li>
-<li>📑 Technical Writer | Creating clear and concise technical guides.</li>
-</ul>
-</div>
+- 📑 Technical Writer | Creating clear and concise technical guides.
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width ="25"><b> Tech Stack </b>
 
