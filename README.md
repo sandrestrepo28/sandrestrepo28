@@ -25,7 +25,7 @@
     <summary><b>📁 Back-end</b></summary>
 
 ![java](https://img.shields.io/badge/Java-cc0000?style=flat-square&logo=openjdk&logoColor=black)
-![pythin](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=black)
 </details>
 
