@@ -1,6 +1,10 @@
 <h1 align="center"><b>Hi, I´m Santiago Restrepo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-restrepo-devqc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandrestrepo28@gmail.com) 
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&pause=1000&color=017ACB&vCenter=true&width=435&lines=-+Software+analyst+and+developer+-)](https://git.io/typing-svg)
 
@@ -74,3 +78,6 @@
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Insomnia](https://img.shields.io/badge/Insomnia-%234000BF?style=flat-square&logo=insomnia&logoColor=white)
 </details>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
