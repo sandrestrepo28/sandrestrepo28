@@ -9,6 +9,7 @@
 <img  align="right" width="200px" alt="pc" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg5bzVlYTJ6OGZ3N21kMWF6dmoxdjZjdzVqOWI5czgwcGVnMXZpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
 
 <div align="center">
+    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-restrepo-devqc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandrestrepo28@gmail.com)
 </div>
 
