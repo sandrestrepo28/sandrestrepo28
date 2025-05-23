@@ -4,14 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&pause=1000&color=017ACB&vCenter=true&width=435&lines=-+Software+analyst+and+developer+-)](https://git.io/typing-svg)
 
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-restrepo-devqc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandrestrepo28@gmail.com)
+
 </div>
 
 <img  align="right" width="200px" alt="pc" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg5bzVlYTJ6OGZ3N21kMWF6dmoxdjZjdzVqOWI5czgwcGVnMXZpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
-
-<div align="center">
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-restrepo-devqc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandrestrepo28@gmail.com)
-</div>
 
 **🧑🏻‍💻About me**
 - 🌐 FullStack Developer | Building frontend and backend systems.
@@ -81,4 +79,4 @@
 </details>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrestrepo28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
