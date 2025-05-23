@@ -1,10 +1,6 @@
 <h1 align="center"><b>Hi, I´m Santiago Restrepo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-restrepo-devqc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandrestrepo28@gmail.com) 
-</div>
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&pause=1000&color=017ACB&vCenter=true&width=435&lines=-+Software+analyst+and+developer+-)](https://git.io/typing-svg)
 
@@ -18,6 +14,8 @@
 - 🔍 Quality Control (QC) | Ensuring high-quality and reliable software.
 
 - 📑 Technical Writer | Creating clear and concise technical guides.
+
+- 📧 Social | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-restrepo-devqc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandrestrepo28@gmail.com)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width ="25"><b> Tech Stack </b>
 
